@@ -1,1 +1,1 @@
-readme for 0x03-git
+0x03-GIT folder readme
